@@ -58,11 +58,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code\\KhanGoogleGeocoder\\KhanGoogleGeocoder\\KhanGoogleGeocoder.csproj",
+      "projectUniqueName": "C:\\Code\\GitRepos\\chaudarywajid\\KhanGoogleGeocoder\\KhanGoogleGeocoder\\KhanGoogleGeocoder\\KhanGoogleGeocoder.csproj",
       "projectName": "KhanGoogleGeocoder",
-      "projectPath": "C:\\Code\\KhanGoogleGeocoder\\KhanGoogleGeocoder\\KhanGoogleGeocoder.csproj",
+      "projectPath": "C:\\Code\\GitRepos\\chaudarywajid\\KhanGoogleGeocoder\\KhanGoogleGeocoder\\KhanGoogleGeocoder\\KhanGoogleGeocoder.csproj",
       "packagesPath": "C:\\Users\\chaud\\.nuget\\packages\\",
-      "outputPath": "C:\\Code\\KhanGoogleGeocoder\\KhanGoogleGeocoder\\obj\\",
+      "outputPath": "C:\\Code\\GitRepos\\chaudarywajid\\KhanGoogleGeocoder\\KhanGoogleGeocoder\\KhanGoogleGeocoder\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
