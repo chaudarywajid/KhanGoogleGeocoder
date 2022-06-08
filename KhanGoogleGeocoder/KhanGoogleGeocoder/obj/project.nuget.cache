@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5ZXhDrwbzNiU/Uz5/RGz6mKFOXmC/5cmjyHvxEge6Kp6Pia1FSC+B2iZSKXjKkZ3r3OKS5PL4tALvE736WnrvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Code\\KhanGoogleGeocoder\\KhanGoogleGeocoder\\KhanGoogleGeocoder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chaud\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

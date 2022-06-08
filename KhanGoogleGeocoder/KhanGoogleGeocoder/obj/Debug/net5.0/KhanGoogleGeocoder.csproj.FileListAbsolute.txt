@@ -1,0 +1,12 @@
+C:\Code\KhanGoogleGeocoder\KhanGoogleGeocoder\bin\Debug\net5.0\KhanGoogleGeocoder.deps.json
+C:\Code\KhanGoogleGeocoder\KhanGoogleGeocoder\bin\Debug\net5.0\KhanGoogleGeocoder.dll
+C:\Code\KhanGoogleGeocoder\KhanGoogleGeocoder\bin\Debug\net5.0\ref\KhanGoogleGeocoder.dll
+C:\Code\KhanGoogleGeocoder\KhanGoogleGeocoder\bin\Debug\net5.0\KhanGoogleGeocoder.pdb
+C:\Code\KhanGoogleGeocoder\KhanGoogleGeocoder\obj\Debug\net5.0\KhanGoogleGeocoder.csproj.AssemblyReference.cache
+C:\Code\KhanGoogleGeocoder\KhanGoogleGeocoder\obj\Debug\net5.0\KhanGoogleGeocoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\KhanGoogleGeocoder\KhanGoogleGeocoder\obj\Debug\net5.0\KhanGoogleGeocoder.AssemblyInfoInputs.cache
+C:\Code\KhanGoogleGeocoder\KhanGoogleGeocoder\obj\Debug\net5.0\KhanGoogleGeocoder.AssemblyInfo.cs
+C:\Code\KhanGoogleGeocoder\KhanGoogleGeocoder\obj\Debug\net5.0\KhanGoogleGeocoder.csproj.CoreCompileInputs.cache
+C:\Code\KhanGoogleGeocoder\KhanGoogleGeocoder\obj\Debug\net5.0\KhanGoogleGeocoder.dll
+C:\Code\KhanGoogleGeocoder\KhanGoogleGeocoder\obj\Debug\net5.0\ref\KhanGoogleGeocoder.dll
+C:\Code\KhanGoogleGeocoder\KhanGoogleGeocoder\obj\Debug\net5.0\KhanGoogleGeocoder.pdb
