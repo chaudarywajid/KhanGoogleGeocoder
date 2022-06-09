@@ -7,11 +7,11 @@ KhanGoogleGeocoder reverse geocoder is extremely easy to integrate and consume.
 
 The Library consist of 5 reverse geocoding methods:  
 
-ReverseGeocode Method: This method take the latitude and longitude and return the full response.  
-ReverseGeocodeAddress: This method take the latitude and longitude and return the formatted address.  
-ReverseGeocodeStreet: This method take the latitude and longitude and return the full street name.  
-ReverseGeocodeDistrict: This method take the latitude and longitude and return the district name.  
-ReverseGeocodeStreetAndDistrict: This method take the latitude and longitude and return the full street name & district name.  
+> ReverseGeocode Method: This method take the latitude and longitude and return the full response.  
+> ReverseGeocodeAddress: This method take the latitude and longitude and return the formatted address.  
+> ReverseGeocodeStreet: This method take the latitude and longitude and return the full street name.  
+> ReverseGeocodeDistrict: This method take the latitude and longitude and return the district name.  
+> ReverseGeocodeStreetAndDistrict: This method take the latitude and longitude and return the full street name & district name.  
 
 ```
 Initialize the Constructor  
@@ -41,6 +41,6 @@ Debug.WriteLine("District: " + district);
 
 Supported Operations The following operations are supported.  
 
-Google Maps  
-Reverse Geocode  
-Location  
+> Google Maps  
+> Reverse Geocode  
+> Location  
